@@ -1,0 +1,10 @@
+,BuffName,BuffDesc,BuffType,BuffUrl
+1,补血瓶,回复血量！,AddHp,http://img.mp.itc.cn/upload/20170220/87241cf5fc5e4b9582a7615c124587b0_th.jpeg
+2,伤害瓶,伤害提升！,AddAtk,http://img.mp.itc.cn/upload/20170220/8b2aac137cec47a9acd506b118b86ed1_th.jpeg
+3,穿透瓶,物理穿透提升！,AddPhysicalPenetrate,http://img.mp.itc.cn/upload/20170220/e806ccfc20394480a5b164b49057c6f2_th.jpeg
+4,能量瓶,能量穿透提升！,AddEnergyPenetrate,http://img.mp.itc.cn/upload/20170220/87241cf5fc5e4b9582a7615c124587b1_th.jpeg
+5,暴击瓶,暴击提升！,AddCrit,http://img.mp.itc.cn/upload/20170220/8b2aac137cec47a9acd506b118b86ed2_th.jpeg
+6,防御瓶,物理防御提升！,AddPhysicalDefence,http://img.mp.itc.cn/upload/20170220/e806ccfc20394480a5b164b49057c6f3_th.jpeg
+7,提升瓶,能量防御提升！,AddEnergyDefence,http://img.mp.itc.cn/upload/20170220/87241cf5fc5e4b9582a7615c124587b2_th.jpeg
+8,速度瓶,移动速度提升！,AddMoveSpeed,http://img.mp.itc.cn/upload/20170220/8b2aac137cec47a9acd506b118b86ed3_th.jpeg
+9,攻击瓶,攻击速度提升！,AddAttackSpeed,http://img.mp.itc.cn/upload/20170220/e806ccfc20394480a5b164b49057c6f4_th.jpeg
